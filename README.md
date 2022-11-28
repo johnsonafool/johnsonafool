@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 [![Fool's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=johnsonafool&)](https://github.com/anuraghazra/github-readme-stats)
 [![Fool's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnsonafool)](https://github.com/anuraghazra/github-readme-stats)
 [![Fool's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonafool&layout=compact&hide_border=true&langs_count=100)
-[![Fool's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=johnsonafool)
+[![Fool's GitHub stats](https://github-profile-trophy.vercel.app/?username=johnsonafool&column=4&margin-w=15&margin-h=15&no-frame=true)
+
+<!-- [![Fool's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=johnsonafool) -->
 
