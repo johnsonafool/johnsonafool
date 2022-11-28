@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**johnsonafool/johnsonafool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas to get Me started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,13 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![Fool's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsonafool)](https://github.com/anuraghazra/github-readme-stats)
-[![Fool's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=johnsonafool&)](https://github.com/anuraghazra/github-readme-stats)
-[![Fool's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnsonafool)](https://github.com/anuraghazra/github-readme-stats)
-[![Fool's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonafool&layout=compact&hide_border=true&langs_count=100)
-[![Fool's GitHub stats](https://github-profile-trophy.vercel.app/?username=johnsonafool&column=4&margin-w=15&margin-h=15&no-frame=true)
-
+[!Fool's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsonafool)](https://github.com/anuraghazra/github-readme-stats)
+[!Fool's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=johnsonafool&)](https://github.com/anuraghazra/github-readme-stats)
+[!Fool's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnsonafool)](https://github.com/anuraghazra/github-readme-stats)
+[!Fool's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonafool&layout=compact&hide_border=true&langs_count=100)
+[!Fool's GitHub stats](https://github-profile-trophy.vercel.app/?username=johnsonafool&column=4&margin-w=15&margin-h=15&no-frame=true)
 <!-- [![Fool's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=johnsonafool) -->
 
