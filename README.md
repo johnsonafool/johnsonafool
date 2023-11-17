@@ -12,8 +12,15 @@
 <a href="mailto:johnsonafool@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin"></a>
 <a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="linkedin"></a>
 
-## GitHub Stats 👩‍💻
+## GitHub Stats 👨‍💻
 
 [![](https://raw.githubusercontent.com/johnsonafool/johnsonafool/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/johnsonafool/johnsonafool/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/johnsonafool/johnsonafool/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/johnsonafool/johnsonafool/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/johnsonafool/johnsonafool/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<table align="center">
+<tr>
+<td><img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johnsonafool&layout=compact&hide_border=true&langs_count=100&theme=transparent"     alt="johnsonafool"></td>
+<td><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=johnsonafool&&show_icons=true&theme=transparent&layout=compact&hide_border=true&langs_count=100" alt="johnsonafool" /></td>
+</tr>
+</table>
