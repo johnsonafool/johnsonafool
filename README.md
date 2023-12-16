@@ -15,9 +15,9 @@
 ## GitHub Stats 👨‍💻
 
 <table align="center">
-<tr width="100%">
+<!-- <tr width="100%">
 <img src ="https://raw.githubusercontent.com/johnsonafool/johnsonafool/master/profile-summary-card-output/github_dark/0-profile-details.svg"     alt="johnsonafool">
-</tr>
+</tr> -->
 <tr>
 <td><img src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johnsonafool&layout=compact&hide_border=true&langs_count=100&theme=transparent"     alt="johnsonafool"></td>
 <td><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=johnsonafool&&show_icons=true&theme=transparent&layout=compact&hide_border=true&langs_count=100" alt="johnsonafool" /></td>
