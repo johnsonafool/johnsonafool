@@ -14,7 +14,7 @@
 
 ## GitHub Stats 👨‍💻
 
-<table align="center">
+<table>
 <!-- <tr width="100%">
 <img src ="https://raw.githubusercontent.com/johnsonafool/johnsonafool/master/profile-summary-card-output/github_dark/0-profile-details.svg"     alt="johnsonafool">
 </tr> -->
