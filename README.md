@@ -1,4 +1,4 @@
-# 😺 Hi! I'm Johnson!
+# Hi! I'm Johnson 😺
 
 <!-- ![](https://komarev.com/ghpvc/?username=itsalicelee) -->
 
@@ -12,7 +12,7 @@
 <a href="mailto:johnsonafool@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin"></a>
 <a href="https://discordapp.com/users/847787845606834196" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="linkedin"></a>
 
-## GitHub Stats 👨‍💻
+## GitHub stats 👨‍💻
 
 <table>
 <!-- <tr width="100%">
